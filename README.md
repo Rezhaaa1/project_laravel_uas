@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Description
+Project belajar_laravel ini dibuat untuk memnuhi Ujian Akhir Semester Matakuliah Pemrograman Framework, dosen pengampuh Ahmad Juliansyah<br>
+Nama : Rezha fathurrahman<br>
+NIM  : 221001025<br>
+Kelas : Informatika 22A
+
+Disini saya menggunakan Laravel versi 9, demikian deskripsi dari project saya terima kasihh :)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
