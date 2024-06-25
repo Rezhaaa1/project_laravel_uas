@@ -9,8 +9,8 @@
 
 ## Description
 Project belajar_laravel ini dibuat untuk memnuhi Ujian Akhir Semester Matakuliah Pemrograman Framework, dosen pengampuh Ahmad Juliansyah<br>
-Nama : Rezha fathurrahman<br>
 <br>
+Nama : Rezha fathurrahman<br>
 NIM  : 221001025<br>
 Kelas : Informatika 22A
 
